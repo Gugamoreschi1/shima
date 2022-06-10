@@ -1,0 +1,731 @@
+
+<!DOCTYPE html>
+<html lang="en" class="is-loading">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="google-site-verification" content="CFwZqO_hmY2DPIR13xESIkBHT2_aBi8DzFyv306yz8Q" />
+    <link rel="apple-touch-icon" sizes="57x57" href="/assets/meta-icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/assets/meta-icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/assets/meta-icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/assets/meta-icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/assets/meta-icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/assets/meta-icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/assets/meta-icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/assets/meta-icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/assets/meta-icons/apple-icon-180x180.png">
+
+<link rel="icon" type="image/png" sizes="32x32" href="/assets/meta-icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="/assets/meta-icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/assets/meta-icons/favicon-16x16.png">
+
+<meta name="application-name" content="McBride"/>
+<meta name="msapplication-square70x70logo" content="msapplication-square70x70logo.png"/>
+<meta name="msapplication-square150x150logo" content="msapplication-square150x150logo.jpg"/>
+<meta name="msapplication-square310x310logo" content="msapplication-square310x310logo.jpg"/>
+<meta name="msapplication-TileColor" content="#0b202b"/> 
+
+      				    <!-- This site is optimized with the Sprout SEO plugin v1.1.1 - http://sprout.barrelstrengthdesign.com/craft-plugins/seo -->
+	<title>Great Wolf Lodge - The McBride Company</title>
+	<link rel='canonical' href='https://mcbridedesign.com/projects/great-wolf-lodge' />
+	<meta property='og:locale' content='en_us' />
+	<!-- / Sprout SEO Craft CMS plugin -->
+
+        <link rel="preload" href="/assets/fonts/Neutraface2Text-Book.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/assets/fonts/Neutraface2Text-Demi.woff2" as="font" type="font/woff2" crossorigin="">
+<link rel="preload" href="/assets/fonts/Neutraface2Text-Light.woff2" as="font" type="font/woff2" crossorigin="">
+
+<style>
+  @font-face {
+    font-family: "Neutraface Book";
+    src: url('/assets/fonts/Neutraface2Text-Book.woff2') format('woff2'),
+          url('/assets/fonts/Neutraface2Text-Book.woff') format('woff');
+  }
+  
+  @font-face {
+    font-family: "Neutraface Demi";
+    src: url('/assets/fonts/Neutraface2Text-Demi.woff2') format('woff2'),
+          url('/assets/fonts/Neutraface2Text-Demi.woff') format('woff');
+  }
+
+  @font-face {
+    font-family: "Neutraface Light";
+    src: url('/assets/fonts/Neutraface2Text-Light.woff2') format('woff2'),
+          url('/assets/fonts/Neutraface2Text-Light.woff') format('woff');
+  }
+</style> 
+    <link rel="stylesheet" href="/_compiled/app.css">
+
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-54096748-1', 'auto');
+  ga('send', 'pageview');
+
+</script>
+<!-- Facebook Pixel Code -->
+<script>
+  !function(f,b,e,v,n,t,s)
+  {if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+  n.callMethod.apply(n,arguments):n.queue.push(arguments)};
+  if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+  n.queue=[];t=b.createElement(e);t.async=!0;
+  t.src=v;s=b.getElementsByTagName(e)[0];
+  s.parentNode.insertBefore(t,s)}(window, document,'script',
+  'https://connect.facebook.net/en_US/fbevents.js');
+  fbq('init', '1727596993987394');
+  fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+  src="https://www.facebook.com/tr?id=1727596993987394&ev=PageView&noscript=1"
+/></noscript>
+<!-- End Facebook Pixel Code --> 
+  </head>
+  <body>
+    <a class="sr" href="#barba-wrapper">Skip to Main Content</a>
+
+    <header class="site--header js-header">
+  
+  <div href="#" class="menu-btn js-menu-btn o-media__icon no-barba">
+    <span class="icon x is--inactive"></span>
+    <span class="tx--caption">Menu</span>
+  </div>
+
+  <span class="logo-wrapper js-logo">
+
+    <a href="/" class="c-logo">
+    
+    <svg class="c-logo__svg" width="48" height="41" viewBox="0 0 48 41" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path id="line-15" d="M1.0144 27.0139L23.5144 40.3094" stroke="currentColor" stroke-width="1.37143" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="line-14" d="M16.0144 1.30933L1.0144 27.0139" stroke="currentColor" stroke-width="1.37143" stroke-linecap="round" stroke-linejoin="round"/>
+        <path id="line-13" d="M18.2492 16.5613C18.3207 16.9332 18.6802 17.1767 19.0521 17.1051C19.424 17.0336 19.6675 16.6742 19.5959 16.3023L18.2492 16.5613ZM16.6878 1.17983C16.6163 0.807936 16.2568 0.564432 15.8849 0.63595C15.513 0.707469 15.2695 1.06693 15.341 1.43882L16.6878 1.17983ZM19.5959 16.3023L16.6878 1.17983L15.341 1.43882L18.2492 16.5613L19.5959 16.3023Z" fill="currentColor"/>
+        <path id="line-12" d="M22.9275 14.0731C23.1234 14.3972 23.545 14.5012 23.8691 14.3053C24.1932 14.1094 24.2971 13.6878 24.1013 13.3637L22.9275 14.0731ZM16.6013 0.954634C16.4054 0.630524 15.9838 0.526581 15.6597 0.722472C15.3356 0.918363 15.2317 1.33991 15.4276 1.66402L16.6013 0.954634ZM24.1013 13.3637L16.6013 0.954634L15.4276 1.66402L22.9275 14.0731L24.1013 13.3637Z" fill="currentColor"/>
+        <path id="line-11" d="M23.8633 14.3087C24.1893 14.1161 24.2975 13.6956 24.1048 13.3695C23.9121 13.0435 23.4916 12.9354 23.1656 13.128L23.8633 14.3087ZM18.5738 15.8414C18.2477 16.0341 18.1396 16.4545 18.3323 16.7806C18.5249 17.1066 18.9454 17.2148 19.2715 17.0221L18.5738 15.8414ZM23.1656 13.128L18.5738 15.8414L19.2715 17.0221L23.8633 14.3087L23.1656 13.128Z" fill="currentColor"/>
+        <path id="line-10" d="M19.2714 17.0221C19.5974 16.8295 19.7056 16.409 19.5129 16.0829C19.3203 15.7569 18.8998 15.6488 18.5737 15.8414L19.2714 17.0221ZM0.665561 26.4235C0.33952 26.6162 0.231394 27.0367 0.424055 27.3627C0.616715 27.6887 1.03721 27.7969 1.36325 27.6042L0.665561 26.4235ZM18.5737 15.8414L0.665561 26.4235L1.36325 27.6042L19.2714 17.0221L18.5737 15.8414Z" fill="currentColor"/>
+        <path id="line-9" d="M22.841 40.4388C22.9125 40.8107 23.272 41.0542 23.6439 40.9827C24.0158 40.9111 24.2593 40.5517 24.1878 40.1798L22.841 40.4388ZM19.596 16.3023C19.5245 15.9304 19.165 15.6869 18.7931 15.7584C18.4212 15.8299 18.1777 16.1894 18.2492 16.5613L19.596 16.3023ZM24.1878 40.1798L19.596 16.3023L18.2492 16.5613L22.841 40.4388L24.1878 40.1798Z" fill="currentColor"/>
+        <path id="line-8" d="M22.8287 40.3093C22.8287 40.688 23.1357 40.995 23.5144 40.995C23.8931 40.995 24.2001 40.688 24.2001 40.3093H22.8287ZM24.2001 13.7184C24.2001 13.3397 23.8931 13.0327 23.5144 13.0327C23.1357 13.0327 22.8287 13.3397 22.8287 13.7184H24.2001ZM24.2001 40.3093V13.7184H22.8287V40.3093H24.2001Z" fill="currentColor"/>
+        <path id="line-7" d="M46.3632 27.6043C46.6893 27.4116 46.7974 26.9911 46.6048 26.6651C46.4121 26.339 45.9916 26.2309 45.6656 26.4236L46.3632 27.6043ZM23.1656 39.719C22.8395 39.9117 22.7314 40.3322 22.9241 40.6582C23.1167 40.9843 23.5372 41.0924 23.8632 40.8997L23.1656 39.719ZM45.6656 26.4236L23.1656 39.719L23.8632 40.8997L46.3632 27.6043L45.6656 26.4236Z" fill="currentColor"/>
+        <path id="line-6" d="M31.6067 0.963717C31.4158 0.636627 30.9959 0.526203 30.6688 0.717078C30.3417 0.907952 30.2313 1.32785 30.4222 1.65494L31.6067 0.963717ZM45.4222 27.3595C45.613 27.6866 46.0329 27.797 46.36 27.6061C46.6871 27.4152 46.7975 26.9954 46.6067 26.6683L45.4222 27.3595ZM30.4222 1.65494L45.4222 27.3595L46.6067 26.6683L31.6067 0.963717L30.4222 1.65494Z" fill="currentColor"/>
+        <path id="line-5" d="M27.4328 16.3023C27.3613 16.6742 27.6048 17.0336 27.9767 17.1051C28.3486 17.1767 28.7081 16.9332 28.7796 16.5613L27.4328 16.3023ZM31.6877 1.43882C31.7593 1.06693 31.5158 0.707469 31.1439 0.63595C30.772 0.564432 30.4125 0.807936 30.341 1.17983L31.6877 1.43882ZM28.7796 16.5613L31.6877 1.43882L30.341 1.17983L27.4328 16.3023L28.7796 16.5613Z" fill="currentColor"/>
+        <path id="line-4" d="M22.9276 13.3637C22.7317 13.6878 22.8356 14.1094 23.1597 14.3053C23.4838 14.5012 23.9054 14.3972 24.1013 14.0731L22.9276 13.3637ZM31.6013 1.66402C31.7971 1.33991 31.6932 0.918363 31.3691 0.722472C31.045 0.526581 30.6234 0.630524 30.4275 0.954634L31.6013 1.66402ZM24.1013 14.0731L31.6013 1.66402L30.4275 0.954634L22.9276 13.3637L24.1013 14.0731Z" fill="currentColor"/>
+        <path id="line-3" d="M23.8632 13.128C23.5372 12.9354 23.1167 13.0435 22.9241 13.3695C22.7314 13.6956 22.8395 14.1161 23.1656 14.3087L23.8632 13.128ZM27.7574 17.0221C28.0834 17.2148 28.5039 17.1066 28.6966 16.7806C28.8893 16.4545 28.7811 16.0341 28.4551 15.8414L27.7574 17.0221ZM23.1656 14.3087L27.7574 17.0221L28.4551 15.8414L23.8632 13.128L23.1656 14.3087Z" fill="currentColor"/>
+        <path id="line-2" d="M28.455 15.8414C28.129 15.6488 27.7085 15.7569 27.5159 16.0829C27.3232 16.409 27.4313 16.8295 27.7574 17.0221L28.455 15.8414ZM45.6655 27.6042C45.9916 27.7969 46.4121 27.6887 46.6047 27.3627C46.7974 27.0367 46.6892 26.6162 46.3632 26.4235L45.6655 27.6042ZM27.7574 17.0221L45.6655 27.6042L46.3632 26.4235L28.455 15.8414L27.7574 17.0221Z" fill="currentColor"/>
+        <path id="line-1" d="M22.841 40.1798C22.7695 40.5517 23.013 40.9111 23.3849 40.9827C23.7568 41.0542 24.1163 40.8107 24.1878 40.4388L22.841 40.1798ZM28.7796 16.5613C28.8511 16.1894 28.6076 15.8299 28.2357 15.7584C27.8638 15.6869 27.5043 15.9304 27.4328 16.3023L28.7796 16.5613ZM24.1878 40.4388L28.7796 16.5613L27.4328 16.3023L22.841 40.1798L24.1878 40.4388Z" fill="currentColor"/>
+    </svg>
+
+    <div class="c-logo__txt"><span>TheMcBride</span><span>Company</span></div>
+</a>
+
+        <div class="loading-content">
+      <p>Think, Design, Brand</p>
+    </div>
+  </span>
+
+    <a href="https://mcbridedesign.com/brands/alphathink-mcbridedesign" class="projects-btn o-media__icon tx--gray-light">
+    <span class="tx--caption">View Projects</span>
+    <svg class="icon icon-projects" width="19" height="18" fill="none">
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(0 6)" />
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(16 6)" />
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(8 8)" />
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(8)" />
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(3 15)" />
+  <circle cx="1.5" cy="1.5" r="1.5" fill="currentColor" transform="translate(13 15)" />
+</svg>  </a>
+</header>
+
+
+<div class="site-nav js-nav">
+
+  <div class="nav-container">
+    <nav class="main-nav">
+      <ul>
+                  <li>
+    <a  class="main-nav__link tx--title-3 first" href="https://mcbridedesign.com/" title="Home" >Home</a>
+      </li>
+
+                  <li>
+    <a  class="main-nav__link tx--title-3 active" href="/projects" title="Projects" >Projects</a>
+      </li>
+
+                  <li>
+    <a  class="main-nav__link tx--title-3" href="https://mcbridedesign.com/company" title="Who We Are" >Who We Are</a>
+      </li>
+
+                  <li>
+    <a  class="main-nav__link tx--title-3" href="/news" title="News &amp; Press" >News &amp; Press</a>
+      </li>
+
+                  <li>
+    <a  class="main-nav__link tx--title-3" href="https://mcbridedesign.com/connect" title="Connect" >Connect</a>
+      </li>
+
+                  <li>
+    <a  class="main-nav__link tx--title-3" href="https://mcbridedesign.com/careers" title="Careers" >Careers</a>
+      </li>
+
+              </ul>
+    </nav>
+  
+    <nav class="more-nav">
+      <ul class="more-nav__list">
+        <span>
+                      <li>
+    <a  class="no-barba tx--caption first" href="https://www.facebook.com/themcbridecompany/" title="Facebook"  target="_blank">Facebook</a>
+      </li>
+
+                      <li>
+    <a  class="no-barba tx--caption" href="https://twitter.com/TheMcBrideCo" title="Twitter"  target="_blank">Twitter</a>
+      </li>
+
+                      <li>
+    <a  class="no-barba tx--caption" href="https://www.instagram.com/themcbrideco/" title="Instagram"  target="_blank">Instagram</a>
+      </li>
+
+                      <li>
+    <a  class="no-barba tx--caption" href="https://www.linkedin.com/company/the-mcbride-company" title="Linkedin"  target="_blank">Linkedin</a>
+      </li>
+
+                  </span>
+
+        <span>
+                      <li>
+    <a  class="no-barba tx--caption first" href="https://mcbridedesign.com/sound-design" title="Sound Design"  target="_blank">Sound Design</a>
+      </li>
+
+                      <li>
+    <a  class="no-barba tx--caption" href="https://www.papertiger.com/" title="Site Credits"  target="_blank">Site Credits</a>
+      </li>
+
+                  </span>
+      </ul>
+    </nav>
+  </div>
+
+</div> 
+
+      <main id="barba-wrapper" class="main">
+      <div class="barba-container" data-namespace="no-prism">
+        <div class="container">
+            <header class="project-header">
+    <div class="project-header_image">
+                        
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_500x300_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_1000x600_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1800x1125_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_3600x2250_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1200x750_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_2400x1500_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_650x407_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_1300x814_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_500x300_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_1000x600_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x">
+
+            <img class="js-animate"
+                    srcset="/assets/images/work/_500x300_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 1x, /assets/images/work/_1000x600_crop_center-center/21060321_GWL_OPT01_Draft005.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="21060321 Gwl Opt01 Draft005">
+
+                        
+        </picture>
+
+        
+        <div class="project-header_title-meta">
+            <div class="project-header_meta js-animate">
+                Multiple Locations
+                                    <svg width="4" height="4" viewBox="0 0 4 4" fill="none" xmlns="http://www.w3.org/2000/svg">
+                        <circle cx="2" cy="2" r="2" fill="#00FFFC"/>
+                    </svg>
+
+                    <span>
+                        Hospitality
+                    </span>
+                            </div>
+            <h1 class="project-header_title js-animate">Great Wolf Lodge</h1>
+        </div>
+    </div>
+
+    <div class="project-header_content">
+        <div class="project-header_content-subtitle">Great Wolf Lodge hired us to help evolve their brand. The result was &#039;Great Wolf 2.0&#039;.</div>
+        <div class="project-header_copy-services">
+            <p class="project-header_content-copy">From a grand and contemporary north woods style lobby to a great wolf national park themed family entertainment center, our updated concept was created to appeal equally to children and adults. Great Wolf Lodge 2.0 is currently being rolled out as part of new lodges around the country and promises a staycation experience like no other. </p>
+
+            <div class="project-header_content-services">
+                <ul>
+                                            <li>Architectural Design</li>
+                                            <li>Conceptual Design</li>
+                                            <li>Interior Design</li>
+                                            <li>Signage and Graphics</li>
+                                            <li>Brand Development</li>
+                                    </ul>
+            </div>
+        </div>
+    </div>
+</header>
+                          <div class="project-builder_image-large">
+                        
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_500x300_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_1000x600_crop_center-center/GWL_lobby_FIN.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1800x1125_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_3600x2250_crop_center-center/GWL_lobby_FIN.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1200x750_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_2400x1500_crop_center-center/GWL_lobby_FIN.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_650x407_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_1300x814_crop_center-center/GWL_lobby_FIN.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_500x300_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_1000x600_crop_center-center/GWL_lobby_FIN.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_500x300_crop_center-center/GWL_lobby_FIN.jpg 1x, /assets/images/work/_1000x600_crop_center-center/GWL_lobby_FIN.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Gwl Lobby Fin">
+
+                        
+        </picture>
+
+        
+        
+</div>                          <div class="project-builder_center-content">
+    <p>The lobby captivates guests of all ages with its grandiose volume and immersive atmosphere. The guest is drawn through numerous 'zones' towards the large fireplace and 3 story picture windows that perfectly frame the space outdoors. </p>
+</div>                          <div class="project-builder_image-large">
+                        
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_500x300_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_1000x600_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1800x1125_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_3600x2250_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1200x750_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_2400x1500_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_650x407_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_1300x814_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_500x300_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_1000x600_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_500x300_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 1x, /assets/images/work/_1000x600_crop_center-center/Great-Wolf-Lodge-ben-jerrys.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Lodge Ben Jerrys">
+
+                        
+        </picture>
+
+        
+        
+</div>                          <div class="project-builder_center-content">
+    <p>After leaving the lobby, guests wander down an immersive corridor that acts as a transition into the Great Wolf National Park. Inspired by the nostalgic branding created by the U.S.National Park Service, this space is packed with activities, food &amp; beverage and attractions appropriate for all ages. </p>
+</div>                          <div class="project-builder_image-2-col">
+            <div class="col">
+                            
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x">
+
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_630x630_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/2097/Great-Wolf-Lodge_15.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Lodge 15">
+
+                        
+        </picture>
+
+        
+                    </div>
+            <div class="col">
+                            
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x">
+
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_630x630_crop_center-center/Great-Wolf-Lodge_06.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/Great-Wolf-Lodge_06.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Lodge 06">
+
+                        
+        </picture>
+
+        
+                    </div>
+    </div>                          <div class="project-builder_image-large">
+                        
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_500x300_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_1000x600_crop_center-center/CandyINT_High01-Final.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1800x1125_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_3600x2250_crop_center-center/CandyINT_High01-Final.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1200x750_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_2400x1500_crop_center-center/CandyINT_High01-Final.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_650x407_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_1300x814_crop_center-center/CandyINT_High01-Final.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_500x300_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_1000x600_crop_center-center/CandyINT_High01-Final.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_500x300_crop_center-center/CandyINT_High01-Final.jpg 1x, /assets/images/work/_1000x600_crop_center-center/CandyINT_High01-Final.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Candy Int High01 Final">
+
+                        
+        </picture>
+
+        
+        
+</div>                          <div class="project-builder_image-content">
+                                
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x">
+
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_630x630_crop_center-center/SketchGreatWolfNP_02-copy.jpg 1x, /assets/images/work/_1260x1260_crop_center-center/SketchGreatWolfNP_02-copy.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Sketch Great Wolf Np 02 Copy">
+
+                        
+        </picture>
+
+            
+    <div class="content">
+        
+        <p>The entry portal includes a custom national park map carved into a stained brown wood post that evokes that comforting feeling of being on vacation with the family. </p>
+    </div>
+</div>                          <div class="project-builder_slider">
+    <div class="page-builder-slider page-builder-slider_inner swiper-container">
+        <div class="swiper-wrapper">
+                            
+                                                                    
+                <div class="swiper-slide">
+                    <svg class="drag-hint" width="157" height="145" viewBox="0 0 157 145" fill="none" xmlns="http://www.w3.org/2000/svg">
+      <path d="M83.5089 21.8571L34.3998 40.9524L23.845 75.1714L30.6085 103.1L60.3421 123.33L123.83 103.1L134.271 61.5828L97.9149 24.6623L83.5089 21.8571Z" fill="url(#drag_linear)"></path>
+      <path opacity="0.5" d="M17.4443 75.5393L29.2307 37.3275L84.2302 15.9418L100.176 19.0468L140.854 60.3558L129.22 106.615L58.1484 129.261L24.991 106.702L17.4443 75.5393Z" stroke="url(#drag_linear)"></path>
+      <path d="M62.7321 76.1752H64.7891C67.1981 76.1752 68.7821 74.6792 68.7821 72.4352C68.7821 70.1912 67.1871 68.6952 64.7891 68.6952H62.7321V76.1752ZM63.8981 75.1522V69.7182H64.7121C66.6591 69.7182 67.5721 70.8402 67.5721 72.4352C67.5721 74.0302 66.6591 75.1522 64.7121 75.1522H63.8981ZM71.3301 76.1752H72.4961V73.4032H73.8491L75.4661 76.1752H76.7971L75.0371 73.2162C75.9501 72.8972 76.5551 72.1822 76.5551 71.0712C76.5551 69.4212 75.3781 68.6952 73.8381 68.6952H71.3301V76.1752ZM72.4961 72.4242V69.7182H73.7941C74.7731 69.7182 75.3561 70.1032 75.3561 71.0712C75.3561 72.0172 74.7841 72.4242 73.7941 72.4242H72.4961ZM78.5717 76.1752H79.6937L80.2437 74.8112H83.4227L83.9727 76.1752H85.1827L81.9047 68.6182H81.7727L78.5717 76.1752ZM80.6397 73.8432L81.4537 71.8082C81.6297 71.3792 81.8057 70.7412 81.8167 70.7082C81.8277 70.7632 82.0257 71.4012 82.1907 71.8082L83.0047 73.8432H80.6397ZM90.5561 76.2742C91.9421 76.2742 92.9761 75.7572 93.4601 75.3172V72.3362H90.3801V73.3482H92.3931V74.7452C91.9751 75.0312 91.3151 75.2292 90.5561 75.2292C88.8511 75.2292 87.7511 74.0302 87.7511 72.4352C87.7511 70.8402 88.8401 69.6522 90.4021 69.6522C91.2931 69.6522 91.8431 69.9382 92.2721 70.3892L93.0531 69.6082C92.4481 68.9262 91.5461 68.6072 90.4021 68.6072C88.1801 68.6072 86.5631 70.2022 86.5631 72.4352C86.5631 74.6682 88.2131 76.2742 90.5561 76.2742Z" fill="#ECF2F7"></path>
+      <defs>
+      <linearGradient id="drag_linear" x1="53.7154" y1="26.3894" x2="94.6709" y2="122.844" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3850CF"></stop>
+      <stop offset="1" stop-color="#00FFEE"></stop>
+      </linearGradient>
+      <linearGradient id="drag_linear" x1="50.5983" y1="20.5325" x2="96.7665" y2="129.264" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#3850CF"></stop>
+      <stop offset="1" stop-color="#00FFEE"></stop>
+      </linearGradient>
+      </defs>
+    </svg>
+                                    
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1401xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 1x, /assets/images/work/_2802xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1001xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 1x, /assets/images/work/_2002xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 2x" media="(min-width: 1100px)">
+            
+            
+            <source srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-1_201110_094316.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Slider 1">
+
+                        
+        </picture>
+
+                        </div>
+                            
+                                                                    
+                <div class="swiper-slide">
+                    
+                                    
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1401xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 1x, /assets/images/work/_2802xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1001xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 1x, /assets/images/work/_2002xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 2x" media="(min-width: 1100px)">
+            
+            
+            <source srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-2_201110_094330.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Slider 2">
+
+                        
+        </picture>
+
+                        </div>
+                            
+                                                                    
+                <div class="swiper-slide">
+                    
+                                    
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1401xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 1x, /assets/images/work/_2802xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1001xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 1x, /assets/images/work/_2002xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 2x" media="(min-width: 1100px)">
+            
+            
+            <source srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_601xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 1x, /assets/images/work/_1202xAUTO_Fit_center-center/Great-Wolf-Slider-3_201110_094340.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="Great Wolf Slider 3">
+
+                        
+        </picture>
+
+                        </div>
+                    </div>
+    </div>
+</div>                          <div class="project-builder_center-content">
+    <p>We created numerous new food and beverage destinations for guests to explore. Our food hall is themed as a summer camp with various restaurants occupying different camp cabins. Our fine dining destination offers a true farm to table experience by allowing guests to dine in the barn!</p>
+</div>                          <div class="project-builder_image-large">
+                        
+        
+        
+    
+        
+        
+        
+        
+            
+            <picture
+
+            
+            class="c-lazy-wrapper "
+            data-iesrc="/assets/images/work/_500x300_crop_center-center/v1.jpg 1x, /assets/images/work/_1000x600_crop_center-center/v1.jpg 2x">
+
+                            <source srcset="/assets/images/work/_1800x1125_crop_center-center/v1.jpg 1x, /assets/images/work/_3600x2250_crop_center-center/v1.jpg 2x" media="(min-width: 1390px)">
+            
+                            <source srcset="/assets/images/work/_1200x750_crop_center-center/v1.jpg 1x, /assets/images/work/_2400x1500_crop_center-center/v1.jpg 2x" media="(min-width: 1100px)">
+            
+                            <source srcset="/assets/images/work/_650x407_crop_center-center/v1.jpg 1x, /assets/images/work/_1300x814_crop_center-center/v1.jpg 2x" media="(min-width: 768px)">
+            
+            <source srcset="/assets/images/work/_500x300_crop_center-center/v1.jpg 1x, /assets/images/work/_1000x600_crop_center-center/v1.jpg 2x">
+
+            <img class=""
+                    srcset="/assets/images/work/_500x300_crop_center-center/v1.jpg 1x, /assets/images/work/_1000x600_crop_center-center/v1.jpg 2x"
+                    data-src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
+                    alt="V1">
+
+                        
+        </picture>
+
+        
+        
+</div>            
+            
+                        
+                        
+                          
+                                        
+                          
+                        
+            <div class="project-pagination">
+              <a class="link prev" href="https://mcbridedesign.com/projects/the-east-indica-company?">
+                <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M18 7H2M2 7L8.09524 1M2 7L8.09524 13" stroke="#ECF2F7" stroke-width="2"></path>
+                </svg>
+                Previous
+              </a>
+              
+              <a class="close-btn" href="https://mcbridedesign.com/brands/BrandBeta">
+                <svg width="30" height="30" viewBox="0 0 30 30" fill="none" xmlns="http://www.w3.org/2000/svg">
+                  <circle cx="15" cy="15" r="15" fill="#0B202B"/>
+                  <path fill-rule="evenodd" clip-rule="evenodd" d="M10.1149 8.57175L8.57189 10.1145L13.4576 15.0002L8.57238 19.8855L10.1149 21.4282L15.0001 16.543L19.8854 21.4282L21.4283 19.8855L16.5431 15.0001L21.4288 10.1145L19.8859 8.57175L15.0001 13.4574L10.1149 8.57175Z" fill="#6DCADF"/>
+                </svg>
+              </a>
+
+              <a class="link next" href="https://mcbridedesign.com/projects/the-east-indica-company?">
+                Next
+                  <svg width="18" height="14" viewBox="0 0 18 14" fill="none" xmlns="http://www.w3.org/2000/svg">
+                    <path d="M18 7H2M2 7L8.09524 1M2 7L8.09524 13" stroke="#ECF2F7" stroke-width="2"></path>
+                </svg>
+              </a>
+            </div>
+
+
+                    </div>
+      </div>
+  </main>
+
+    <div class="site-bg js-site-bg">
+    <svg class="site-bg__base" width="391" height="443" viewBox="0 0 391 443" fill="none" xmlns="http://www.w3.org/2000/svg"><path d="M380.746 108.361c-26.826-46.057-71.836-72.295-116.733-89.75C192.064-9.427 109.228-6.724 38.29 33.139 18.198 44.4-1.782 66.921.127 93.497c1.122 15.202 16.163 20.607 27.275 24.211 15.939 5.067 35.694 6.869 45.347 23.985 5.836 10.36-2.582 22.072-9.541 29.053-14.592 14.752-37.602 20.495-45.46 42.566-5.724 16.104 2.021 32.657 7.746 46.846 10.326 25.787 19.98 52.25 34.571 75.335 23.908 37.837 58.704 69.817 101.02 74.66 33.673 3.941 72.397-5.518 95.856-35.697 13.806-17.793-.449-47.859 15.939-63.512 18.296-17.341 46.132-7.094 67.234-21.17 17.173-11.374 27.388-31.643 35.02-51.688 14.592-38.399 22.337-83.217 8.98-121.955-.898-2.59-2.021-5.405-3.368-7.77z" fill="#061923"/></svg>
+    
+    <svg class="site-bg__prism" width="520" height="520" viewBox="0 0 520 520" fill="none" xmlns="http://www.w3.org/2000/svg">
+        
+        <g class="site-bg__prism-paths" fill="url(#prism-gradient)" stroke="url(#prism-stroke)">
+            <path opacity="0.1" d="M514.866 109.292L438.382 14.8205L350.185 0.444092L288.748 14.7573L211.834 21.9358L127.705 19.2287L60.4896 58.5935L0.649414 171.596L6.45021 361.159L84.8981 469.475L180.303 502.738L312.331 475.688L385.241 432.514L449.25 354.119L494.213 260.279L521.272 162.775L514.866 109.292Z"/>
+            <path opacity="0.2" d="M455.868 255.512L464.687 152.614L448.838 96.1473L391.329 38.7099L197.838 37.3079L95.7332 54.7909L4.70752 210.801L27.3383 362.114C27.3383 362.114 109.838 457.628 107.337 456.479H296.338L434.338 314.114L455.868 255.512Z"/>
+            <path opacity="0.3" d="M402.586 295.972L409.891 151.972L366.586 83.9716L250.086 61.4716L123.586 61.4716L22.5864 193.972L77.0864 412.972L244.586 439.972L402.586 314.972V295.972Z"/>
+            <path opacity="0.4" d="M360.932 328.762L358.099 147.269L249.38 91.3844L153.889 77.351L37.5862 176.972L55.9904 384.147L195.667 422.738L348.275 345.182L360.932 328.762Z"/>
+            <path opacity="0.5" d="M323.95 304.021L304.092 148.712L206.901 110.288L125.052 106.567L43.7476 195.102L72.3455 378.019L193.851 398.916L323.95 314.972V304.021Z"/>
+            <path opacity="0.6" d="M297.338 299.114L279.613 165.114L185.392 131.765L116.586 127.101L49.8015 205.165L76.8651 369.824L179.267 390.602L279.613 321.005L297.338 299.114Z"/>
+            <path d="M271.338 263.472L246.113 168.411L174.338 138.972L118.586 144.972L66.0864 201.972L96.0864 346.472L174.338 373.472L271.338 306.972V263.472Z"/>
+        </g>
+        
+        <defs>
+            <linearGradient id="prism-gradient" x1="521.272" y1="167" x2="15" y2="378" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#3850CF"/>
+                <stop offset="1" stop-color="#00FFEE"/>
+            </linearGradient>
+
+            <linearGradient id="prism-stroke" x1="521.272" y1="167" x2="15" y2="378" gradientUnits="userSpaceOnUse">
+                <stop stop-color="#3850CF"/>
+                <stop offset="1" stop-color="#00FFEE"/>
+            </linearGradient>
+        </defs>
+    </svg>
+        
+</div> 
+
+    <script src="/_compiled/vendor.js" async></script>
+    <script src="/_compiled/app.js" async></script>
+  </body>
+</html>
