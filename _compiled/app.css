@@ -1830,12 +1830,12 @@ body.has-brand-panel .word-intro {
     -webkit-transform-origin: center center;
     transform-origin: center center;
     background: 0 0;
-    border: 1px solid #00fffc;
+    border: 1px solid #A8EB79;
     -webkit-transform: rotate(45deg) scale(.6);
     transform: rotate(45deg) scale(.6)
 }
 .word-wrapper .icon::after, .word-wrapper .icon::before {
-    background: #00fffc;
+    background: #A8EB79;
     width: .9rem
 }
 .brand.is-active .word-wrapper .icon {
