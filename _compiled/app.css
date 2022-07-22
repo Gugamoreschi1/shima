@@ -144,7 +144,7 @@ template {
     color: #ecf2f7
 }
 .tx--aqua-bright {
-    color: #00fffc
+    color: #94ED68
 }
 .bg--white {
     background: #fff
@@ -1124,7 +1124,7 @@ html.is-loading body {
     transform: rotate(45deg)
 }
 [data-js-list-opener] .icon::after, [data-js-list-opener] .icon::before {
-    background: #00fffc;
+    background: #94ED68;
     width: 100%
 }
 [data-js-list-opener] .is--active .icon {
