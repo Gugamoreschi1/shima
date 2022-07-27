@@ -478,7 +478,7 @@ ul {
     margin: -3px .5rem -3px 0
 }
 .site--header {
-    position: fixed;
+    position: absolute;
     z-index: 1001;
     top: 0;
     left: 0;

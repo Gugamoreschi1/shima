@@ -1,11 +1,16 @@
-$base: 1vw;
+$base: 3vw;
 
 .site-bg_prism{ 
   overflow:overlay;
    animation-name: spin;
-  animation-duration: 10s;
+  animation-duration: 6s;
   animation-iteration-count: infinite;
-  animation-timing-function: ease;
+  animation-timing-function: linear;
+}
+
+.site-bg_prism:hover{ 
+  animation-duration: 2s;
+  animation-timing-function: linear;
 }
 
 path { 
@@ -25,100 +30,6 @@ justify-content: center;
 align-items: center;
 }
 
-.site-bg_prism:hover .path{ 
- transform: translate(0px,0px);
-}
-
-.site-bg_prism:not(:hover) .path1{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
-}
-
-
-.site-bg_prism:not(:hover) .path2{ 
-  transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
-  
-}
-
-.site-bg_prism:not(:hover) .path3{ 
-  transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path4{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path5{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path6{ 
-   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
- 
-}
-
-.site-bg_prism:not(:hover) .path7{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path8{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path9{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path10{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-.site-bg_prism:not(:hover) .path11{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
-
-}
-
-.site-bg_prism:not(:hover) .path12{ 
-  transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-
-.site-bg_prism:not(:hover) .path13{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-
-.site-bg_prism:not(:hover) .path14{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
-
-}
-
-
-.site-bg_prism:not(:hover) .path15{ 
- transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
- 
-}
-
-
-.site-bg_prism:not(:hover) .path16{ 
-transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
-
-
-
-}
-
-
-
-
 @keyframes spin {
   0% {
     transform: rotate(0deg);
@@ -132,6 +43,313 @@ transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
 }
 
 
+.path1{ 
+  animation-name:banana1;
+  animation-duration: 2s; 
+}
+
+
+.path2{ 
+  animation-name:banana2;
+  animation-duration: 2s;
+}
+
+.path3{ 
+ 
+  animation-name:banana3;
+  animation-duration: 2s;
+  
+}
+
+.path4{ 
+ 
+  animation-name:banana4;
+  animation-duration: 2s;
+  
+}
+
+.path5{ 
+ 
+  animation-name:banana5;
+  animation-duration: 2s;
+  
+}
+
+.path6{ 
+ 
+  animation-name:banana6;
+  animation-duration: 2s;
+  
+}
+
+.path7{ 
+ 
+  animation-name:banana7;
+  animation-duration: 2s;
+  
+}
+
+.path8{ 
+ 
+  animation-name:banana8;
+  animation-duration: 2s;
+  
+}
+
+.path9{ 
+ 
+  animation-name:banana9;
+  animation-duration: 2s;
+  
+}
+
+.path10{ 
+ 
+  animation-name:banana10;
+  animation-duration: 2s;
+  
+}
+
+.path11{ 
+ 
+  animation-name:banana11;
+  animation-duration: 2s;
+  
+}
+
+.path12{ 
+ 
+  animation-name:banana12;
+  animation-duration: 2s;
+  
+}
+
+.path13{ 
+ 
+  animation-name:banana13;
+  animation-duration: 2s;
+  
+}
+
+.path14{ 
+ 
+  animation-name:banana14;
+  animation-duration: 2s;
+  
+}
+
+.path15{ 
+ 
+  animation-name:banana15;
+  animation-duration: 2s;
+  
+}
+
+.path15{ 
+ 
+  animation-name:banana15;
+  animation-duration: 2s;
+  
+}
+
+.path16{ 
+ 
+  animation-name:banana16;
+  animation-duration: 2s;
+  
+}
+
+@keyframes banana1 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana2 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana3 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana4 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana5 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana6 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+@keyframes banana6 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+
+@keyframes banana8 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana9 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana10 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana11 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana12 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana13 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana14 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana15 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
+
+@keyframes banana16 {
+  0% {
+   transform: translate(random(20*$base)-10*$base, random(20*$base)-10*$base);
+   
+  }
+ 
+  100% {
+    transform: translate(0px,0px);
+   
+  }
+}
 
 
 
