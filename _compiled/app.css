@@ -493,7 +493,8 @@ ul {
     justify-content: space-between;
     -webkit-box-align: center;
     -ms-flex-align: center;
-    align-items: center;
+    /* align-items: center; */
+   
     -webkit-transition: margin .3s ease;
     transition: margin .3s ease
 }
@@ -574,7 +575,7 @@ ul {
 }
 .projects-btn .icon {
     position: absolute;
-    right: -40px
+    right: 0px
 }
 @-webkit-keyframes projectBtn {
     0% {
@@ -4021,4 +4022,67 @@ body.has-brand-panel .word-intro {
     .explore-brand_slider .slide-project-title {
         font-size: 4vw
     }
+}
+
+
+.menu-custom {
+    margin-top: 2rem;
+
+    display: flex;
+    align-items: center;
+    gap: 0.5rem;
+
+    /* font-size: .937rem; */
+    cursor: pointer;
+    color: #ecf2f7;
+
+    font-family: "Neutraface Demi", "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: .875rem;
+    letter-spacing: .01em;
+}
+
+
+
+.menu-custom::before{
+    content: "";
+    border-top: 1px solid #34444d;
+    -webkit-transition: -webkit-transform .3s ease;
+    transition: -webkit-transform .3s ease;
+    transition: transform .3s ease;
+    transition: transform .3s ease, -webkit-transform .3s ease;
+    width: 1.5rem;
+}
+
+
+.menu-custom2{
+    margin-top: 2rem;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+
+    /* font-size: .937rem; */
+    cursor: pointer;
+    color: #ecf2f7;
+
+    font-family: "Neutraface Demi", "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
+    font-size: .875rem;
+    letter-spacing: .01em;
+}
+
+
+.menu-custom2::after{
+    content: "";
+    border-top: 1px solid #34444d;
+    -webkit-transition: -webkit-transform .3s ease;
+    transition: -webkit-transform .3s ease;
+    transition: transform .3s ease;
+    transition: transform .3s ease, -webkit-transform .3s ease;
+    width: 1.5rem;
+}
+
+.mini-header{
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
 }
