@@ -230,7 +230,7 @@
         <div class="home-wrapper">
 
             
-          <svg class="site-bg_prism" width="249" height="249" viewBox="0 0 249 249" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg class="site-bg_prism" width="249" height="249" viewBox="0 0 249 249" fill="none" xmlns="http://www.w3.org/2000/svg" style="visibility: hidden">
             <path class="path1" d="M0.300049 95.3L67.5 68.8L71.5 79.2L4.40005 105.7L0.300049 95.3Z" fill="#94ED68"/>
             <path class="path2" d="M20.4196 62.1807L92.6143 63.0627L92.751 51.8736L20.5564 50.9915L20.4196 62.1807Z" fill="#94ED68"/>
             <path class="path3" d="M56 17.5L122.5 45.7L118.2 56L51.7 27.8L56 17.5Z" fill="#94ED68"/>
@@ -332,7 +332,13 @@
 
 </div> 
 
-    
+    <script>
+      console.log(document.querySelector(".site-bg_prism"))
+      function showDiv1() {
+      document.querySelector(".site-bg_prism").style.visibility = "visible";
+      }
+      setTimeout("showDiv1()", 6000);
+    </script>
  
 
     <script src="/_compiled/vendor.js" async></script>
