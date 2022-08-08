@@ -9,7 +9,7 @@
 
   overflow:overlay;
   animation-name: spin;
-  animation-duration: 6s;
+  animation-duration: 4s;
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   
@@ -226,6 +226,6 @@ path {
  }
 
  .site-bg_prism:hover{ 
-  animation-duration: 2s;
+  animation-duration: 6s;
   animation-timing-function: linear;
 }
