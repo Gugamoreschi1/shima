@@ -236,6 +236,39 @@ ul {
     position: relative;
     z-index: 1
 }
+
+.classetestepadrao{ 
+    display: flex;
+    margin: 0 auto;
+    gap: 20px;
+    width: 80%;
+
+
+}
+
+.novabimtitulo{ 
+    font-size: 20px;
+    font-weight: 600;
+
+}
+
+.miniclasseteste{ 
+
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-color: #94ED68;
+    border-radius: 10px;
+    width: 80%;
+    color: #061923;
+    padding: 30px;
+    max-height: 25rem;
+
+    overflow-y: scroll;
+
+}
+
+
 .container {
     padding-left: 6%;
     padding-right: 6%
