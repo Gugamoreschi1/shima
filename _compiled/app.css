@@ -1261,7 +1261,7 @@ html.is-loading body {
     display: inline-block;
     width: 100%
 }
-.company-intro__text {
+.company-intro__text2 {
     width: 100%;
     font-size: 22px;
     line-height: 120%;
@@ -1271,7 +1271,7 @@ html.is-loading body {
     padding: 0 1rem;
     margin: 0
 }
-.company-intro__text span {
+.company-intro__text2 span {
     border-bottom: 1px solid #fff
 }
 .company-slider, .explore-brand_slider {
@@ -3007,7 +3007,7 @@ body.has-brand-panel .word-intro {
     .cols-sm-12 {
         grid-column: span 12
     }
-    .company-intro__text {
+    .company-intro__text2 {
         font-size: 22px
     }
     .company-slider picture, .explore-brand_slider picture {
@@ -3227,7 +3227,7 @@ body.has-brand-panel .word-intro {
     .company-intro__image {
         padding: 0 6rem
     }
-    .company-intro__text {
+    .company-intro__text2 {
         font-size: 30px;
         padding: 0 5%;
         -webkit-transform: translate3d(0, 40px, 0);
@@ -3741,7 +3741,7 @@ body.has-brand-panel .word-intro {
         padding: 0 6rem;
         max-width: 1100px
     }
-    .company-intro__text {
+    .company-intro__text2 {
         font-size: 42px;
         max-width: 1260px;
         margin: 0 auto
