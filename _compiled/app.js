@@ -10064,10 +10064,10 @@
             var l = new SplitText(".company-intro__text", {
                 type: "lines"
             });
-            r.from(".company-intro__image", .5, {
+            r.from(".company-intro__image", .05, {
                 y: 50,
                 autoAlpha: 0
-            }), r.staggerFrom(l.lines, .3, {
+            }), r.staggerFrom(l.lines, .03, {
                 y: 10,
                 autoAlpha: 0
             }, .05);
