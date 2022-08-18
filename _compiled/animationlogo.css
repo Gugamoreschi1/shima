@@ -15,6 +15,7 @@
   animation-iteration-count: infinite;
   animation-timing-function: linear;
   
+  
 }
 
 
@@ -260,8 +261,23 @@ path {
    }
  }
 
- .site-bg_prism:hover{ 
-  animation-duration: 6s;
-  animation-timing-function: linear;
 
+
+
+.poponhover { 
+  transition: transform .3s ease;
+}
+
+.poponhover:hover { 
+  transform: translate3d(10%, 0%, 0);
+ 
+}
+
+.poponhover2 { 
+  transition: transform .3s ease;
+}
+
+.poponhover2:hover { 
+  transform: translate3d(-10%, 0%, 0);
+ 
 }
