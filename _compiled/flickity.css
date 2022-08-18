@@ -45,13 +45,13 @@ https://flickity.metafizzy.co
 
 .flickity-button {
   position: absolute;
-  background: hsla(0, 0%, 100%, 0.75);
+  background: hsla(0, 0%, 100%, 0);
   border: none;
   color: #333;
 }
 
 .flickity-button:hover {
-  background: white;
+  background: rgba(255, 255, 255, 0);
   cursor: pointer;
 }
 
@@ -72,7 +72,7 @@ https://flickity.metafizzy.co
 }
 
 .flickity-button-icon {
-  fill: currentColor;
+  fill: white;
 }
 
 /* ---- previous/next buttons ---- */
@@ -125,8 +125,8 @@ https://flickity.metafizzy.co
   display: inline-block;
   width: 10px;
   height: 10px;
-  margin: 0 8px;
-  background: rgb(125, 125, 125);
+  margin: -10px 8px;
+  background: rgb(255, 255, 255);
   border-radius: 50%;
   opacity: 0.25;
   cursor: pointer;
@@ -149,8 +149,6 @@ body { font-family: sans-serif; }
   width: 75%;
   height:80vh;
   margin-right: 10px;
-  
-  
 
 }
 
@@ -169,20 +167,25 @@ opacity: 0;
 height: 100%;
 width: 100%;
 background-color: rgba(0, 0, 0, 0.3);
+
 }
 
 
 
 
 .text-carousel:hover {
-  display: block;
-  text-align: center;
-  line-height: 200px;
-  font-size: 80px;
+  display: flex;
+  align-content: flex-end;
+  flex-direction: column;
+  padding-left: 5%;
   color: white;
   opacity: 1;
   transition: opacity .3s ease;
- 
+  background-color: rgba(0, 0, 0, 0.5);
+  height: 100%;
+  justify-content: flex-end;
+  padding-bottom: 25px;
+ gap: 25px;
 }
 
 
@@ -201,3 +204,45 @@ background-color: rgba(0, 0, 0, 0.3);
   background-size: cover;
   border-radius: 5px;
 }
+
+
+p { 
+  font-size: 18px !important;
+  margin: 0;
+}
+
+h4 { 
+ font-size: 24px !important;
+}
+
+h2 { 
+  font-size: 48px !important;
+}
+
+.carousel-header { 
+  display: flex;
+  flex-direction: column;
+}
+
+.carousel-items { 
+  display: flex;
+  flex-direction: row;
+  gap: 50px
+}
+
+
+
+.carousel-product { 
+  display: flex;
+  flex-direction: row;
+  gap: 50px;
+}
+
+
+@media only screen and (max-width:1000px) {
+  .carousel-product {
+    flex-direction: column;
+    gap: 15px;
+  }
+  
+} 
