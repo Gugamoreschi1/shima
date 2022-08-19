@@ -142,11 +142,15 @@ https://flickity.metafizzy.co
 * { box-sizing: border-box; }
 
 body { font-family: sans-serif; }
+.carousel { 
+  width: 90%;
+  margin-left: 5%;
+}
 
 
 
 .carousel-cell {
-  width: 75%;
+  width: 85%;
   height:70vh;
   margin-right: 10px;
 
@@ -191,7 +195,7 @@ background-color: rgba(0, 0, 0, 0.3);
 
 
 .cell-1 { 
-  background-image: url('/assets/images/casaitaim.png');
+  background-image: url('/assets/images/blancresidencial.png');
   background-position: center center;
   background-size: cover;
   border-radius: 5px;
@@ -199,11 +203,55 @@ background-color: rgba(0, 0, 0, 0.3);
 
 
 .cell-2 { 
+  background-image: url('/assets/images/petropolis.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-3 { 
+  background-image: url('/assets/images/bossa.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-4 { 
+  background-image: url('/assets/images/itarare.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-5 { 
   background-image: url('/assets/images/eden.png');
   background-position: center center;
   background-size: cover;
   border-radius: 5px;
 }
+.cell-6 { 
+  background-image: url('/assets/images/platz.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-7 { 
+  background-image: url('/assets/images/belize.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-8 { 
+  background-image: url('/assets/images/horizon.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+.cell-9 { 
+  background-image: url('/assets/images/toplife.png');
+  background-position: center center;
+  background-size: cover;
+  border-radius: 5px;
+}
+
+
 
 
 p { 
