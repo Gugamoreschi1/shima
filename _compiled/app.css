@@ -1144,7 +1144,7 @@ html.is-loading body {
 }
 .company-services .description {
     height: 0;
-    
+    opacity: 0;
     -webkit-transition: opacity .4s ease, -webkit-transform .4s ease;
     transition: opacity .4s ease, -webkit-transform .4s ease;
     transition: opacity .4s ease, transform .4s ease;
@@ -1298,7 +1298,7 @@ html.is-loading body {
     margin-top: -75px;
     width: 18vw;
     max-width: 155px;
-    
+    opacity: 0;
     -webkit-transition: .3s ease;
     transition: .3s ease;
     pointer-events: none
@@ -1343,7 +1343,7 @@ html.is-loading body {
     font-size: 13px;
     line-height: 142%;
     text-align: center;
-    
+    opacity: 0;
     -webkit-transform: translate(-50%, 10px);
     transform: translate(-50%, 10px);
     -webkit-transition-property: opacity, -webkit-transform;
@@ -1524,15 +1524,14 @@ html.is-loading body {
 .team-member .bar {
     height: 1px;
     width: 100%;
-    background: rgba(255, 255, 255, .2);
-    
+    background: rgba(255, 255, 255, .2);   
     margin-bottom: 16px
 }
 .team-member .bio {
     clear: both
 }
 .team-member .bio-text p {
-    
+    opacity: 1;
     font-size: 12px;
     line-height: 1.4
 }
@@ -1540,7 +1539,7 @@ html.is-loading body {
     opacity: .2
 }
 .team-member.has-bio .header {
-    top: 0
+    top: 0;
 }
 .team-member.has-bio .bar, .team-member.has-bio .bio-text p {
     opacity: 1
@@ -2925,7 +2924,7 @@ body.has-brand-panel .word-intro {
     font-weight: 600
 }
 .explore-brand_slider .slide-content_meta svg {
-    ;
+    
     margin: 0
 }
 .explore-brand_slider .slide-project-title {
