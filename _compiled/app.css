@@ -189,8 +189,8 @@ img {
     display: none !important
 }
 .js-animate {
-    opacity: 0;
-    visibility: hidden
+    
+    
 }
 body {
     font-family: "Neutraface Book", "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif;
@@ -433,6 +433,13 @@ ul {
 }
 
 
+@media only screen and (max-width:800px) {
+    
+
+.classetestepadrao { 
+flex-direction: column;
+}
+}
 
 
 .site-bg {
@@ -442,7 +449,8 @@ ul {
     width: 100%;
     height: 100%;
     z-index: 0;
-    overflow: hidden
+    overflow: hidden;
+   
 }
 .site-bg__base {
     width: auto;
@@ -455,7 +463,8 @@ ul {
     margin: auto;
     z-index: 1;
     -webkit-transition: opacity 2s ease;
-    transition: opacity 2s ease
+    transition: opacity 2s ease;
+    
 }
 .site-bg__prism {
     position: absolute;
@@ -465,7 +474,7 @@ ul {
     right: 0;
     bottom: 0;
     z-index: 10;
- 
+    
 }
 
 
@@ -771,7 +780,7 @@ ul {
     transform-origin: center center
 }
 .c-logo__svg.is-brand path, .c-logo__svg.is-design path, .c-logo__svg.is-think path {
-    opacity: 0;
+    
     -webkit-transform: scale(0);
     transform: scale(0)
 }
@@ -806,8 +815,8 @@ body.has-nav .menu-btn {
     top: 0;
     width: 100%;
     height: 100%;
-    opacity: 0;
-    visibility: hidden
+    
+    
 }
 .site-nav ul {
     list-style-type: none
@@ -901,12 +910,12 @@ html.is-loading body {
     opacity: 1
 }
 .is-loading .logo-wrapper, .is-loading .main, .is-loading .menu-btn, .is-loading .projects-btn {
-    opacity: 0;
-    visibility: hidden
+    
+    
 }
 .barba-container {
-    opacity: 0;
-    visibility: hidden
+    
+    
 }
 .poly-1 {
     -webkit-clip-path: polygon(1% 0, 100% 1%, 99% 99%, 1% 98%);
@@ -1053,7 +1062,7 @@ html.is-loading body {
 .position__content {
     right: 0;
     top: 0;
-    opacity: 0;
+    
     width: 100%;
     height: 0;
     overflow: hidden
@@ -1135,7 +1144,7 @@ html.is-loading body {
 }
 .company-services .description {
     height: 0;
-    opacity: 0;
+    
     -webkit-transition: opacity .4s ease, -webkit-transform .4s ease;
     transition: opacity .4s ease, -webkit-transform .4s ease;
     transition: opacity .4s ease, transform .4s ease;
@@ -1289,13 +1298,13 @@ html.is-loading body {
     margin-top: -75px;
     width: 18vw;
     max-width: 155px;
-    opacity: 0;
+    
     -webkit-transition: .3s ease;
     transition: .3s ease;
     pointer-events: none
 }
 .company-slider .has-changed .drag-hint, .explore-brand_slider .has-changed .drag-hint {
-    opacity: 0;
+    
     -webkit-transform: translate3d(-100px, 0, 0);
     transform: translate3d(-100px, 0, 0)
 }
@@ -1334,7 +1343,7 @@ html.is-loading body {
     font-size: 13px;
     line-height: 142%;
     text-align: center;
-    opacity: 0;
+    
     -webkit-transform: translate(-50%, 10px);
     transform: translate(-50%, 10px);
     -webkit-transition-property: opacity, -webkit-transform;
@@ -1516,14 +1525,14 @@ html.is-loading body {
     height: 1px;
     width: 100%;
     background: rgba(255, 255, 255, .2);
-    opacity: 0;
+    
     margin-bottom: 16px
 }
 .team-member .bio {
     clear: both
 }
 .team-member .bio-text p {
-    opacity: 0;
+    
     font-size: 12px;
     line-height: 1.4
 }
@@ -1735,7 +1744,7 @@ a.connect-mail {
 }
 .signup-field button {
     z-index: 100;
-    opacity: 0;
+    
     right: 0;
     cursor: pointer
 }
@@ -1774,7 +1783,7 @@ body.has-brand-panel.has-nav-panel .menu-btn {
     color: #fff
 }
 body.has-brand-panel .brand:not(.is-active), body.has-brand-panel .site-bg__base {
-    opacity: 0;
+    
     pointer-events: none;
     -webkit-transition: opacity .4s ease;
     transition: opacity .4s ease
@@ -1783,7 +1792,7 @@ body.has-brand-panel .c-logo__txt span.bolder {
     font-family: "Neutraface Demi", "-apple-system", BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helvetica Neue", sans-serif
 }
 body.has-brand-panel .word-intro {
-    opacity: 0;
+    
     display: none
 }
 .landing-brands {
@@ -1897,7 +1906,7 @@ body.has-brand-panel .word-intro {
     transform: scale(.6)
 }
 .word-content {
-    opacity: 0;
+    
     width: 100%;
     position: absolute;
     top: 100%;
@@ -1908,7 +1917,7 @@ body.has-brand-panel .word-intro {
     transition: transform .3s ease 0s, -webkit-transform .3s ease 0s;
     -webkit-transform: translate3d(-50%, 40px, 0);
     transform: translate3d(-50%, 40px, 0);
-    visibility: hidden
+    
 }
 .is-active .word-content {
     visibility: visible;
@@ -2789,7 +2798,7 @@ body.has-brand-panel .word-intro {
     margin-top: -75px;
     width: 18vw;
     max-width: 155px;
-    opacity: 0;
+    
     -webkit-transition: .3s ease;
     transition: .3s ease;
     pointer-events: none
@@ -2850,7 +2859,7 @@ body.has-brand-panel .word-intro {
 }
 .explore-brand_header .filters button::after {
     display: none;
-    opacity: 0;
+    
     content: '';
     position: absolute;
     right: 0;
@@ -2916,7 +2925,7 @@ body.has-brand-panel .word-intro {
     font-weight: 600
 }
 .explore-brand_slider .slide-content_meta svg {
-    visibility: hidden;
+    ;
     margin: 0
 }
 .explore-brand_slider .slide-project-title {
@@ -2931,7 +2940,7 @@ body.has-brand-panel .word-intro {
     transition-duration: 1s;
     -webkit-transition-timing-function: ease;
     transition-timing-function: ease;
-    opacity: 0;
+    
     -webkit-transform: translateX(-20px);
     transform: translateX(-20px)
 }

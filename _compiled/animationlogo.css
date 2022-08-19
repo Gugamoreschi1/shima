@@ -9,7 +9,7 @@
 
   overflow:overlay;
   animation-name: spin;
-  animation-delay: 5s;
+  animation-delay: 0s;
 
   animation-duration: 4s;
   animation-iteration-count: infinite;
@@ -32,102 +32,102 @@ path {
    }
  }
   .path1 {
-    animation-delay:5s;
+   animation-delay: 0s;
     animation-name: banana1;
     animation-duration: 5s;
  }
   .path2 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana2;
     animation-duration: 5s;
  }
   .path3 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana3;
     animation-duration: 5s;
  }
   .path4 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana4;
     animation-duration: 5s;
  }
   .path5 {
-    animation-delay:5s;
+   animation-delay: 0s;
     
     animation-name: banana5;
     animation-duration: 5s;
  }
   .path6 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana6;
     animation-duration: 5s;
  }
   .path7 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana7;
     animation-duration: 5s;
  }
   .path8 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana8;
     animation-duration: 5s;
  }
   .path9 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana9;
     animation-duration: 5s;
  }
   .path10 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana10;
     animation-duration: 5s;
  }
   .path11 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana11;
     animation-duration: 5s;
  }
   .path12 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana12;
     animation-duration: 5s;
  }
   .path13 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana13;
     animation-duration: 5s;
  }
   .path14 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana14;
     animation-duration: 5s;
  }
   .path15 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana15;
     animation-duration: 5s;
  }
   .path15 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana15;
     animation-duration: 5s;
  }
   .path16 {
-    animation-delay:5s;
+   animation-delay: 0s;
 
     animation-name: banana16;
     animation-duration: 5s;
