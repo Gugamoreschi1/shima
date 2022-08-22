@@ -89,7 +89,7 @@
 
     <ul class="viewport-links">
            
-      <li class="left">
+      <li class="left contact-link">
          <a 
             href="/connect.html"
            
@@ -519,14 +519,23 @@
     <script>
       const portfolioLink = document.querySelector(".portfolio-link")
 
+      const contactLink = document.querySelector(".contact-link")
+
+
       const barbaContainer = document.getElementById("barba-container")
 
-      function removeClassName(){
+      function removeClassNamePortfolio(){
         barbaContainer.classList.remove("barba-container")
         location.href = "/projects.html"
       }
+      function removeClassNameConnect(){
+        barbaContainer.classList.remove("barba-container")
+        location.href = "/connect.html"
+      }
 
-      portfolioLink.addEventListener("click", removeClassName)
+      contactLink.addEventListener("click", removeClassNameConnect)
+
+      portfolioLink.addEventListener("click", removeClassNamePortfolio)
     </script>
   </body>
 </html>
