@@ -594,6 +594,7 @@ a.btn .icon {
   -webkit-transform: translate3d(0, calc(50vh - 50%), 0);
   transform: translate3d(0, calc(50vh - 50%), 0);
   text-align: center;
+
 }
 .menu-btn > span:last-child,
 .projects-btn > span:first-child {
@@ -807,7 +808,7 @@ a.btn .icon {
   flex-wrap: wrap;
 }
 
-.c-logo {
+. {
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -822,6 +823,7 @@ a.btn .icon {
 .c-logo__svg {
   width: 48px;
   height: 48px;
+
 }
 .c-logo__svg path {
   -webkit-transition: opacity 0.5s ease, -webkit-transform 0.5s ease;

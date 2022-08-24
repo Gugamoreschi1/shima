@@ -113,7 +113,7 @@
     
         <a href="/" class="c-logo logo-header">
         
-          <svg width="150" height="150" viewBox="0 0 586 162" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <svg  width="150" height="150" viewBox="0 0 586 162" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path d="M215.4 119.8C203.553 119.8 191.972 116.287 182.121 109.705C172.271 103.123 164.593 93.7681 160.06 82.8228C155.526 71.8775 154.34 59.8336 156.651 48.2141C158.962 36.5946 164.667 25.9215 173.044 17.5443C181.421 9.16716 192.095 3.46224 203.714 1.15099C215.334 -1.16027 227.377 0.0259585 238.323 4.55965C249.268 9.09334 258.623 16.7709 265.205 26.6214C271.787 36.4719 275.3 48.0529 275.3 59.9C275.274 75.7784 268.954 90.9988 257.726 102.227C246.499 113.454 231.278 119.774 215.4 119.8ZM215.4 28.9C209.241 28.8803 203.214 30.69 198.084 34.0997C192.955 37.5094 188.953 42.3654 186.587 48.0523C184.22 53.7391 183.596 60.0006 184.793 66.0427C185.99 72.0848 188.954 77.6355 193.309 81.9909C197.665 86.3463 203.215 89.3103 209.257 90.5071C215.299 91.7039 221.561 91.0796 227.248 88.7134C232.935 86.3471 237.791 82.3455 241.2 77.2158C244.61 72.0861 246.42 66.0595 246.4 59.9C246.4 51.6783 243.134 43.7933 237.32 37.9797C231.507 32.1661 223.622 28.9 215.4 28.9V28.9Z" fill="white"/>
             <path d="M114.8 117.9H85.9V59.5001C85.9 52.074 82.95 44.9521 77.699 39.701C72.448 34.45 65.3261 31.5001 57.9 31.5001H28.9V117.9H0V2.60004H57.9C72.9908 2.60004 87.4636 8.59487 98.1344 19.2657C108.805 29.9365 114.8 44.4092 114.8 59.5001V117.9Z" fill="white"/>
             <path d="M585.7 119.8H529.6C514.058 119.8 499.153 113.626 488.164 102.637C477.174 91.6469 471 76.7418 471 61.2001C471 45.6584 477.174 30.7532 488.164 19.7636C499.153 8.77395 514.058 2.60004 529.6 2.60004H585.7V119.8ZM529.6 31.5001C525.548 31.265 521.491 31.8602 517.677 33.249C513.863 34.6379 510.374 36.7912 507.422 39.5768C504.47 42.3624 502.118 45.7217 500.511 49.4485C498.904 53.1754 498.074 57.1913 498.074 61.2501C498.074 65.3088 498.904 69.3247 500.511 73.0516C502.118 76.7784 504.47 80.1377 507.422 82.9233C510.374 85.709 513.863 87.8622 517.677 89.251C521.491 90.6399 525.548 91.2351 529.6 91.0001H556.8V31.5001H529.6Z" fill="white"/>
@@ -540,61 +540,6 @@
       homeLink.addEventListener("click", removeClassNameHome)
     </script>
 
-    <script>
-
-      (function(){
-
-      var doc = document.documentElement;
-      var w = window;
-
-      var prevScroll = w.scrollY || doc.scrollTop;
-      var curScroll;
-      var direction = 0;
-      var prevDirection = 0;
-
-      var header = document.getElementById('site-header');
-
-      var checkScroll = function() {
-
-        /*
-        ** Find the direction of scroll
-        ** 0 - initial, 1 - up, 2 - down
-        */
-
-        curScroll = w.scrollY || doc.scrollTop;
-        if (curScroll > prevScroll) { 
-          //scrolled up
-          direction = 2;
-        }
-        else if (curScroll < prevScroll) { 
-          //scrolled down
-          direction = 1;
-        }
-
-        if (direction !== prevDirection) {
-          toggleHeader(direction, curScroll);
-        }
-        
-        prevScroll = curScroll;
-      };
-
-      var toggleHeader = function(direction, curScroll) {
-        if (direction === 2 && curScroll > 52) { 
-          
-          //replace 52 with the height of your header in px
-
-          header.classList.add('hide');
-          prevDirection = direction;
-        }
-        else if (direction === 1) {
-          header.classList.remove('hide');
-          prevDirection = direction;
-        }
-      };
-
-      window.addEventListener('scroll', checkScroll);
-
-      })();
-    </script>
+    
   </body>
 </html>
