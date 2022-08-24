@@ -254,14 +254,14 @@ background-color: rgba(0, 0, 0, 0.3);
   border-radius: 5px;
 }
 .cell-10 { 
-  background-image: url('/assets/images/toplife.jpeg');
+  background-image: url('/assets/images/casaitaim.jpeg');
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
   border-radius: 5px;
 }
 .cell-11 { 
-  background-image: url('/assets/images/toplife.jpeg');
+  background-image: url('/assets/images/holland.jpeg');
   background-position: center center;
   background-size: contain;
   background-repeat: no-repeat;
@@ -402,6 +402,12 @@ font-size: 14px !important;
     background-size: cover;
   }
   .cell-9 {
+    background-size: cover;
+  }
+  .cell-10 {
+    background-size: cover;
+  }
+  .cell-11 {
     background-size: cover;
   }
 
