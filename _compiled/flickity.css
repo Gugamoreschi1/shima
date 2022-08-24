@@ -253,6 +253,20 @@ background-color: rgba(0, 0, 0, 0.3);
   background-repeat: no-repeat;
   border-radius: 5px;
 }
+.cell-10 { 
+  background-image: url('/assets/images/toplife.jpeg');
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
+.cell-11 { 
+  background-image: url('/assets/images/toplife.jpeg');
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+  border-radius: 5px;
+}
 
 
 
