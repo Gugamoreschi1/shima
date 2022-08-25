@@ -103,11 +103,20 @@
       </li>
    </ul>
 
-    <header class="site--header js-header header" id="site-header">
+    <header class="site--header js-header header" id="site-header" >
   
       <div href="#" class="menu-btn js-menu-btn o-media__icon no-barba">
        
       </div>
+
+      <div
+      href="#"
+      class="menu-btn js-menu-btn o-media__icon no-barba menu-toggle-nav"
+      style="z-index: 9999; position: absolute; left: 5%; top: 160%"
+    >
+      <span class="icon x is--inactive"></span>
+      <span class="tx--caption">Menu</span>
+    </div>
     
       <span class="logo-wrapper js-logo">
     
@@ -139,15 +148,101 @@
           <p></p>
         </div>
       </span>
+
     
 
         
     </header>
 
-<div class="site-nav js-nav">
+ <div class="site-nav js-nav">
+        <div class="nav-container">
+          <nav class="main-nav">
+            <ul>
+              <li>
+                <a
+                  class="main-nav__link tx--title-3 "
+                  href="/"
+                  title="Home"
+                  >Início</a
+                >
+              </li>
 
-  
-</div> 
+              <li>
+                <a
+                  class="main-nav__link tx--title-3"
+                  href="/projects.html"
+                  title="Projects"
+                  >Projetos</a
+                >
+              </li>
+
+              <li>
+                <a
+                  class="main-nav__link tx--title-3 active first"
+                  href="./aboutus.html"
+                  title="Who We Are"
+                  >Sobre Nós</a
+                >
+              </li>
+
+              <li>
+                <a
+                  class="main-nav__link tx--title-3"
+                  href="./connect.html"
+                  title="Connect"
+                  >Contato</a
+                >
+              </li>
+            </ul>
+          </nav>
+
+          <nav class="more-nav">
+            <ul class="more-nav__list">
+              <span>
+                <li>
+                  <a
+                    class="no-barba tx--caption first"
+                    href="https://www.facebook.com/themcbridecompany/"
+                    title="Facebook"
+                    target="_blank"
+                    >Facebook</a
+                  >
+                </li>
+
+                <li>
+                  <a
+                    class="no-barba tx--caption"
+                    href="https://twitter.com/TheMcBrideCo"
+                    title="Twitter"
+                    target="_blank"
+                    >Twitter</a
+                  >
+                </li>
+
+                <li>
+                  <a
+                    class="no-barba tx--caption"
+                    href="https://www.instagram.com/themcbrideco/"
+                    title="Instagram"
+                    target="_blank"
+                    >Instagram</a
+                  >
+                </li>
+
+                <li>
+                  <a
+                    class="no-barba tx--caption"
+                    href="https://www.linkedin.com/company/the-mcbride-company"
+                    title="Linkedin"
+                    target="_blank"
+                    >Linkedin</a
+                  >
+                </li>
+              </span>
+            </ul>
+          </nav>
+        </div>
+      </div>
 
       <main id="barba-wrapper" class="main">
     <div class="barba-container" data-namespace="prismFaded" data-prismstroke="true" id="barba-container">
@@ -527,6 +622,19 @@
       homeLink.addEventListener("click", removeClassNameHome)
     </script>
 
-    
+<script>
+  const navMenu = document.querySelector(".site-nav");
+  const menuButton = document.querySelector(".menu-toggle-nav");
+ const mainContent = document.querySelector("main")
+
+
+
+  function toggleClassNavActive() {
+    navMenu.classList.toggle("site-nav-active");
+    mainContent.classList.toggle("menu-active-animation-relation");
+  }
+
+  menuButton.addEventListener("click", toggleClassNavActive);
+</script>
   </body>
 </html>

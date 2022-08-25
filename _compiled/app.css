@@ -897,6 +897,7 @@ body.has-nav .menu-btn {
 
 .site-nav-active {
   visibility: visible !important;
+  opacity: 1 !important;
 }
 .site-nav ul {
   list-style-type: none;
@@ -4442,6 +4443,7 @@ body.has-brand-panel .word-intro {
   width: 100%;
   z-index: 100;
   transition: all 0.3s ease;
+  z-index: 9999;
 }
 #site-header.hide {
   top: -300px;
