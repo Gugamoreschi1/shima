@@ -4452,3 +4452,7 @@ body.has-brand-panel .word-intro {
     display: none !important;
   }
 }
+
+.menu-active-animation-relation {
+  display: none !important;
+}

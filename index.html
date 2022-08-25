@@ -554,6 +554,7 @@
     <script>
       const navMenu = document.querySelector(".site-nav");
       const menuButton = document.querySelector(".menu-toggle-nav");
+      const animation = document.querySelector(".site-bg_prism");
 
       // const isMenuAtive = navMenu.classList.contains("site-nav-active");
 
@@ -561,6 +562,7 @@
 
       function toggleClassNavActive() {
         navMenu.classList.toggle("site-nav-active");
+        animation.classList.toggle("menu-active-animation-relation");
       }
 
       menuButton.addEventListener("click", toggleClassNavActive);
