@@ -892,7 +892,11 @@ body.has-nav .menu-btn {
   width: 100%;
   height: 100%;
   opacity: 0;
-  visibility: hidden;
+  visibility: hidden !important;
+}
+
+.site-nav-active {
+  visibility: visible !important;
 }
 .site-nav ul {
   list-style-type: none;
@@ -936,8 +940,8 @@ body.has-nav .menu-btn {
   transform: translateY(-50%);
   border-radius: 100%;
   background: #94ed68;
-  -webkit-transition: 0.4s ease;
-  transition: 0.4s ease;
+  /* -webkit-transition: 0.4s ease;
+  transition: 0.4s ease; */
   opacity: 0;
 }
 .main-nav__link::after {
@@ -1042,6 +1046,12 @@ html.is-loading body {
   height: 50px;
   overflow: visible;
   white-space: nowrap;
+}
+
+@media (max-width: 600px) {
+  .viewport-links li {
+    display: none !important;
+  }
 }
 .viewport-links li.left,
 .viewport-links li.right {
@@ -4435,4 +4445,10 @@ body.has-brand-panel .word-intro {
 }
 #site-header.hide {
   top: -300px;
+}
+
+@media (min-width: 600px) {
+  .menu-toggle-nav {
+    display: none !important;
+  }
 }
