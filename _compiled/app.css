@@ -1366,7 +1366,7 @@ html.is-loading body {
   position: relative;
   overflow: hidden;
 }
-.company-intro__image-inner::after {
+.__image-inner::after {
   content: "";
   position: absolute;
   bottom: 0;
@@ -1390,7 +1390,7 @@ html.is-loading body {
   display: inline-block;
   width: 100%;
 }
-.company-intro__text {
+.__text {
   width: 100%;
   font-size: 22px;
   line-height: 120%;
