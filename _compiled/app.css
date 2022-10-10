@@ -596,6 +596,7 @@ a.btn .icon {
 }
 .site--header * {
   pointer-events: all;
+    
 }
 .logo-wrapper {
   -webkit-transform: translate3d(0, calc(50vh - 50%), 0);
